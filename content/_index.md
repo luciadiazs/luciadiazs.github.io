@@ -14,9 +14,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        **Español** · Soy socióloga especializada en migración, criminalidad y desigualdad. Combino métodos cuantitativos (análisis multivariado, PLN, visualización) y cualitativos (entrevistas, trabajo de campo) para **informar la toma de decisiones basada en evidencia** en políticas públicas e innovación social.
+        **Español** · Soy socióloga especializada en migración, criminalidad y desigualdad. Combino métodos cuantitativos (análisis multivariado, procesamiento de lenguaje natural, visualización) y cualitativos (entrevistas, trabajo de campo) para **informar la toma de decisiones basada en evidencia** en políticas públicas e innovación social.
 
-        **English** · I am a sociologist focusing on migration, crime, and social inequality. I bridge quantitative methods (multivariate analysis, NLP, visualization) with qualitative research (interviews, fieldwork) to **inform evidence-based decision-making** in public policy and social innovation.
+        **English** · I am a sociologist focusing on migration, crime, and social inequality. I bridge quantitative methods (multivariate analysis, natural language processing, visualization) with qualitative research (interviews, fieldwork) to **inform evidence-based decision-making** in public policy and social innovation.
       # Call-to-action (opcional)
       button:
         text: Download CV
@@ -31,13 +31,14 @@ sections:
         # Solid aubergine background
         color: "#5B264B"
         # (Opcional) Deja comentado el patrón para mantener color sólido
-        # image:
-        #   filename: stacked-peaks.svg
-        #   filters:
-        #     brightness: 1.0
-        #   size: cover
-        #   position: center
-        #   parallax: false
+        image:
+          filename: uploads/background_1.png
+          filters:
+            brightness: 1.0
+            opacity: 0.6
+          size: cover
+          position: center
+          parallax: false
 
   - block: collection
     id: papers

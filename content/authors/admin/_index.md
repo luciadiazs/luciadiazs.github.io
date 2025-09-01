@@ -32,7 +32,7 @@ interests:
 
 # Education to show in About widget
 education:
-  - degree: BA in Sociology
+  - course: BA in Sociology
     institution: Pontificia Universidad Católica del Perú (PUCP)
     year: 2025
 
