@@ -45,9 +45,6 @@ profiles:
 
 ---
 
-English
-
 I am a sociologist with experience in research on migration, crime, and social inequality. My work bridges quantitative and qualitative approaches: from multivariate statistical analysis, natural language processing, and data visualization, to interviews and fieldwork with vulnerable populations. By integrating these perspectives, I aim to generate knowledge that supports decision-making in academia, policy, and social innovation.
 
-Español
 Soy socióloga con experiencia en el estudio de la migración, la criminalidad y la desigualdad social. Mi trabajo combina métodos cuantitativos (análisis multivariado, procesamiento de lenguaje natural, visualización de datos) y cualitativos (entrevistas, trabajo de campo con poblaciones vulnerables). Busco que el análisis de datos y la investigación social contribuyan a la toma de decisiones basadas en evidencia.

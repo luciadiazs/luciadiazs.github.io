@@ -1,84 +1,53 @@
 ---
-title: "An example journal article"
+title: "“Dios te diría ‘Yo no te hice esclava’”: percepciones del rol de la mujer en una iglesia cristiana de Lima"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+  - admin
+  - "Lucía Villegas Guerrero"
+  - "Brisa Cruz Pacheco"
+# author_notes:
+#   - "Equal contribution"
+#   - "Equal contribution"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
+# Schedule page publish date (NOT the publication date).
+publishDate: "2025-01-01T00:00:00Z"
+
+# Publication type (CSL): article-journal, paper-conference, etc.
 publication_types: ["article-journal"]
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+# Publication name and optional abbreviated name.
+publication: "*La Colmena*, 16, 171–190"
+publication_short: "La Colmena, 16:171–190"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# DOI (renderiza un badge si tu tema lo soporta)
+doi: "10.18800/lacolmena.202301.009"
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: >
+  El artículo analiza las percepciones de género entre mujeres de la iglesia cristiana Agua Viva en Lima Metropolitana y Callao, a partir de la sociología de la experiencia de François Dubet. Con un enfoque cualitativo —entrevistas a siete integrantes—, se examinan creencias y prácticas en torno a roles de género en familia, educación, trabajo y participación comunitaria. Los hallazgos muestran consensos sobre la importancia de la participación femenina en la vida pública, pero también tensiones en la esfera privada (matrimonio y maternidad). Las percepciones se justifican, entre otros elementos, en principios religiosos, coexistiendo posturas conservadoras y otras más progresistas. El estudio evidencia la diversidad de interpretaciones, cuestionando estereotipos de conservadurismo homogéneo en iglesias evangélicas.
+
+# Summary corto (aparece en listados)
+summary: Qualitative study on gender perceptions among women in a Lima-based Christian church, highlighting convergences and tensions between public participation and private roles.
 
 tags:
-- Source Themes
+  - Gender
+  - Religion
+  - Qualitative Methods
+  - Sociology
+  - Peru
+
 featured: false
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+# Identificadores externos opcionales (quita si no usas)
+# hugoblox:
+#   ids:
+#     arxiv: ""
 
 links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+  - type: url
+    name: DOI
+    url: https://doi.org/10.18800/lacolmena.202301.009
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Suggested citation (APA 7th):
+Díaz Saenz, L. C., Villegas Guerrero, L. V., & Cruz Pacheco, B. A. (2023). “Dios te diría ‘Yo no te hice esclava’”: percepciones del rol de la mujer en una iglesia cristiana de Lima. La Colmena, (16), 171–190. https://doi.org/10.18800/lacolmena.202301.009
